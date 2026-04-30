@@ -1,0 +1,52 @@
+/* FONDO DE TODA LA PÁGINA */
+body{
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+/* LOGO */
+.logo{
+    background-color: #000;
+    color: #00ffcc;
+    padding: 15px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* IMAGEN */
+.imagen{
+    width: 400px;
+    border-radius: 20px;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+}
+
+/* TEXTO */
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+p{
+    text-align: center;
+    max-width: 700px;
+    margin: auto;
+}
+
+/* VIDEO */
+.video{
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* FOOTER */
+footer{
+    background-color: black;
+    color: #ff0000;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
